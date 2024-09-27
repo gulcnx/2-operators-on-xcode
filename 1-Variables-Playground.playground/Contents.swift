@@ -19,7 +19,7 @@ foo2 = "Foo 1"
 foo
 foo2
 
-let moreNames = [
+let moreNames = [c
     "Angela",
     "Beth"
 ]
