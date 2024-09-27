@@ -34,4 +34,4 @@ let age = 33
 let message = age >= 18
 ? "you are an adult"
 : "you arent an adult yet"
-n
+
